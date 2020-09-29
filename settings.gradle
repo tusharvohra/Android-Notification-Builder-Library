@@ -1,0 +1,3 @@
+include ':NotifMan'
+include ':app'
+rootProject.name = "Notification Builder"
