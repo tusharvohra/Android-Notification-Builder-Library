@@ -1,5 +1,5 @@
-# Android-Notification-Builder-Library
-Android Library to create and customise notifications easily
+# NotifMan
+#### Android Library to create and customise notifications easily
 
 ## Get the library in your App
 
