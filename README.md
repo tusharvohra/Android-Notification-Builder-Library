@@ -29,7 +29,7 @@ allprojects {
 #### Gradle:
 ```java
 dependencies {
-	implementation 'com.github.tusharvohra:Android-Notification-Builder-Library:v1.0.0'
+	implementation 'com.github.tusharvohra:NotifMan:v1.0.0'
 }
 ```
 
@@ -37,7 +37,7 @@ dependencies {
 ```java
 <dependency>
     <groupId>com.github.tusharvohra</groupId>
-    <artifactId>Android-Notification-Builder-Library</artifactId>
+    <artifactId>NotifMan</artifactId>
     <version>v1.0.0</version>
 </dependency>
 ```
