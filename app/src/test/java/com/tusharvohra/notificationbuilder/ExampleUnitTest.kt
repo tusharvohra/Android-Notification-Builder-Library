@@ -1,4 +1,4 @@
-package com.example.notifman
+package com.tusharvohra.notificationbuilder
 
 import org.junit.Test
 
